@@ -2,8 +2,6 @@
 An in-depth analysis of the Netflix dataset to provide data-driven recommendations for content production and global growth.
 # Netflix Content Strategy: Data Exploration and Visualization
 
-![Netflix Logo](https://i.imgur.com/XqQZ4uD.png)
-
 ##  Project Overview
 
 This project involves a comprehensive analysis of the Netflix dataset, which contains information on all TV shows and movies available on the platform as of mid-2021. The primary goal is to explore the data, uncover patterns, and generate actionable insights that can help Netflix executives make data-driven decisions about content strategy and global expansion.
