@@ -78,3 +78,11 @@ Based on the analysis, here are simple, actionable recommendations for Netflix e
 * **NumPy:** For numerical operations.
 * **Matplotlib & Seaborn:** For data visualization and plotting.
 * **Google Colab:** As the development environment.
+
+<!-- portfolio-navigation -->
+## Repository guide
+
+- **Code and notebooks** · [Netflix case study.ipynb](Netflix%20case%20study.ipynb)
+
+<!-- /portfolio-navigation -->
+
